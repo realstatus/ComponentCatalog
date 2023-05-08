@@ -16,3 +16,7 @@
 
 /system
 
+/swagger-ui.html
+
+/actuator/env
+
