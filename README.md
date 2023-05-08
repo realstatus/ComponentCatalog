@@ -3,8 +3,16 @@
 
 
 /nacos
+
 /druid
+
 /minio
+
 /console
+
 /ueditor
+
 /editor
+
+/system
+
