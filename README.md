@@ -20,3 +20,8 @@
 
 /actuator/env
 
+/admin/adminer.php
+
+/adminer/adminer.php
+
+/adminer.php
