@@ -1,5 +1,5 @@
 # ComponentCatalog
-常见web组件的路径。
+一些web组件的路径。
 
 
 #### /nacos
