@@ -32,3 +32,5 @@
 /admin/cores?wt=json&indexInfo=false
 
 /solr/admin/cores?wt=json&indexInfo=false
+
+/.vscode/sftp.json
